@@ -9,6 +9,6 @@ public class ExampleController {
     @GetMapping("/home/example-url/")
     public String exampleRequest() {
 
-        return "JSON data";
+        return "JSON data answer";
     }
 }
